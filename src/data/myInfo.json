@@ -1,0 +1,61 @@
+{
+  "id": "coding-bundle",
+  "subtitle": "I build responsive, high-performance web applications using the MERN stack. I focus on clean, scalable code with React and Next.js, turning complex requirements into smooth, user-friendly experiences ready for production.",
+  "badge": "Frontend / MERN Stack </>",
+  "gradient": "from-green-400 via-cyan-400 to-blue-500",
+  "buttonColor": "from-green-500 to-cyan-500",
+  "image": "/Shorook-Khaled-front-end-developer.png",
+  "experience": [
+    {
+      "title": "MEAN-Stack Web Development NTI & Ministry of Communications and Information Technology",
+      "location": "On Site Training - Fayoum, Egypt",
+      "duration": "December 2024 – February 2025",
+      "description": [
+        "Completed intensive full-stack training in MEAN (MongoDB, Express.js, Angular, Node.js), gaining hands-on experience in developing and deploying responsive, data-driven web applications with RESTful APIs and NoSQL database integration Score: 95% | Total Hours: 120 (90 Technical + 30 Freelancing Coaching)"
+      ],
+      "icon": "💻"
+    }
+  ],
+"education": [
+    {
+      "location": "Completed intensive full-stack training in MEAN stack (MongoDB, Express.js, Angular, Node.js) and MERN stack, with hands-on projects and freelancing coaching.",
+      "duration": "Dec 2024 – Feb 2025",
+      "title": "MEAN & MERN Stack Development – NTI & Ministry of Communications",
+      "icon": "💻"
+    },
+    {
+      "location": "Faculty of Computer Science, Department of Information Systems, focusing on modern software development and web technologies.",
+      "duration": "Sep 2022 – Jul 2026",
+      "title": "B.Sc. in Computer Science – Fayoum University",
+      "icon": "🎓"
+    }
+],
+
+"techIcons": [
+  { "name": "Redux", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg", "size": "large", "angle": 0, "tooltipColor": "#764ABC" },
+  { "name": "Angular", "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg", "size":"large", "angle":45, "tooltipColor":"#DD0031" },
+  { "name": "API Integration", "src":"https://cdn-icons-png.flaticon.com/512/1087/1087843.png", "size":"large", "angle":90, "tooltipColor":"#FF6F61" },
+  { "name": "Axios", "src": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/axios/axios-plain.svg", "size": "large", "angle":135, "tooltipColor": "#5A29E4" },
+  { "name": "Material UI", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg", "size": "large", "angle":180, "tooltipColor": "#0081CB" },
+  { "name": "Next.js", "src": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nextjs/nextjs-original.svg", "size": "large", "angle":225, "tooltipColor": "#000000" },
+  { "name": "Node.js", "src": "/public/nodejs.png", "size": "large", "angle":270, "tooltipColor": "#339933" },
+  { "name": "MongoDB", "src": "/public/mongodb-icon-2.svg", "size": "large", "angle":315, "tooltipColor": "#47A248" },
+  { "name": "Express.js", "src": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/express/express-original.svg", "size": "large", "angle":360, "tooltipColor": "#000000" },
+
+  { "name": "Bootstrap", "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg", "size":"small", "angle":15, "tooltipColor":"#7952B3" },
+  { "name": "HTML", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg", "size": "small", "angle":47.7, "tooltipColor": "#E34F26" },
+  { "name": "CSS", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg", "size": "small", "angle":80.4, "tooltipColor": "#1572B6" },
+  { "name": "JavaScript", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg", "size": "small", "angle":113.1, "tooltipColor": "#F7DF1E" },
+  { "name": "React", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg", "size": "small", "angle":145.8, "tooltipColor": "#61DAFB" },
+  { "name": "Tailwind CSS", "src": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg", "size": "small", "angle":178.5, "tooltipColor": "#38B2AC" },
+  { "name": "TypeScript", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg", "size": "small", "angle":211.2, "tooltipColor": "#3178C6" },
+  { "name": "Git", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg", "size": "small", "angle":243.9, "tooltipColor": "#F05032" },
+  { "name": "GitHub", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg", "size": "small", "angle":276.6, "tooltipColor": "#181717" },
+  { "name": "Postman", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg", "size": "small", "angle":309.3, "tooltipColor": "#FF6C37" }
+]
+
+
+
+
+
+}

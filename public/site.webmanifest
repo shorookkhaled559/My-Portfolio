@@ -1,0 +1,22 @@
+{
+  "name": "Shorook Khaled | MERN Stack Developer",
+  "short_name": "Shorook",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#9333EA",
+  "description": "Portfolio of Shorook Khaled — a MERN Stack Developer building high-performance, responsive, and secure web applications, specialized in React, Next.js, Angular, and modern full-stack architectures.",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

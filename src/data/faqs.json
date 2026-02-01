@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What technologies do you specialize in?",
+    "answer": "I specialize in the MERN stack, building responsive and interactive web applications. My main tools include MongoDB, Express.js, React.js, Node.js, and Angular, along with frontend skills in Next.js, Tailwind CSS, and Bootstrap."
+  },
+  {
+    "question": "What kind of projects have you built?",
+    "answer": "I have built full-stack applications like an Online Book Store with Stripe payment integration, a QR Code Attendance System for universities, and freelance websites for companies in Saudi Arabia. I also completed 30 JavaScript projects in 30 days to sharpen my skills."
+  },
+  {
+    "question": "Do you have experience with responsive design?",
+    "answer": "Absolutely. I follow a mobile-first approach and use responsive frameworks like Tailwind CSS and Bootstrap to ensure my projects work smoothly on all devices."
+  },
+  {
+    "question": "How do you manage your projects?",
+    "answer": "I use GitHub for version control, organize tasks logically, and follow a structured development workflow to ensure projects are delivered clean and maintainable."
+  },
+  {
+    "question": "Do you handle both frontend and backend?",
+    "answer": "Yes. I build scalable backends with Node.js/Express and databases like MongoDB, and combine them with frontend frameworks like React.js, Next.js, and Angular for a complete full-stack solution."
+  },
+  {
+    "question": "How do you ensure code quality?",
+    "answer": "I write clean, readable code and test my applications thoroughly. I also follow best practices for frontend and backend development to ensure stable and maintainable projects."
+  }
+]
